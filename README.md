@@ -23,4 +23,4 @@ All sensitive information (passwords, keys, IPs) has been removed or sanitized.
 
 ## Status
 
-🟡 In progress – Wazuh installation running
+🟡 Running a bruteforce attack.
