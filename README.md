@@ -23,4 +23,4 @@ All sensitive information (passwords, keys, IPs) has been removed or sanitized.
 
 ## Status
 
-🟡 Running a bruteforce attack.
+🟢 Ran a bruteforce attack.
